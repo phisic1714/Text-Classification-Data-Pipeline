@@ -1,0 +1,12 @@
+services:
+  frontend:
+    image: tensorflow/serving
+    volumes:
+      - type: bind
+        source: /home/peerapat/wongnai-sentiment/resources/trb_aware/models
+        target: /models/mymodel
+    ports:
+      - 8502:8501
+    environment:
+      - MODEL_NAME=mymodel
+  
