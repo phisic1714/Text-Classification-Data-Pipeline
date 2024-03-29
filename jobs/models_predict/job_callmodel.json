@@ -1,0 +1,5 @@
+{
+    "jobmodule": "modelcaller.ModelPredict", 
+    "input": "/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/predict/index.json", 
+    "output": "/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/predict/output.csv"
+}

@@ -1,0 +1,6 @@
+{
+    "package": "trbawarepipeline.jobimpl", 
+    "jobmodule": "datasplit.DataSplit", 
+    "input": "/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/cleaned/w_review_train_cleaned.json", 
+    "output": ["/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/cleaned/train.json","/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/cleaned/test.json"]
+}

@@ -1,0 +1,7 @@
+{
+    "jobmodule": "preparedata.DataPreparationJob", 
+    "input": "/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/w_review_train.csv", 
+    "output": "/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/w_review_train.json",
+    "tag": "Training"
+}
+

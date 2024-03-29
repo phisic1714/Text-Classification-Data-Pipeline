@@ -1,0 +1,6 @@
+{
+    "jobmodule": "datacleansing.DataCleansing", 
+    "input": "/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/predict/prepared.json", 
+    "output": "/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/predict/cleaned.json",
+    "tag": "Predict"
+}

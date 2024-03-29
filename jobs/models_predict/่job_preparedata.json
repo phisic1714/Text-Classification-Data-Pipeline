@@ -1,0 +1,6 @@
+{
+    "jobmodule": "preparedata.DataPreparationJob", 
+    "input": "/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/input_test.csv", 
+    "output": "/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/predict/prepared.json",
+    "tag": "Predict"
+}

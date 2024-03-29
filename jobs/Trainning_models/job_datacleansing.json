@@ -1,0 +1,7 @@
+{
+    "package": "trbawarepipeline.jobimpl", 
+    "jobmodule": "datacleansing.DataCleansing", 
+    "input": "/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/w_review_train.json", 
+    "output": "/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/cleaned/w_review_train_cleaned.json",
+    "tag": "Training"
+}

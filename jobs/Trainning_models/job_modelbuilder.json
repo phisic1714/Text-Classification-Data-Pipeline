@@ -1,0 +1,6 @@
+{
+    "package": "trbawarepipeline.jobimpl", 
+    "jobmodule": "buildmodel.ModelBuilder", 
+    "input": ["/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/cleaned/train_index.json", "/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/cleaned/test_index.json","/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/cleaned/dense_vec.txt"],
+    "output": "/home/peerapat/wongnai-sentiment/resources/trb_aware/models/1"
+}

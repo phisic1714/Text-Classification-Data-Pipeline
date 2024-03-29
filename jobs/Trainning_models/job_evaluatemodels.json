@@ -1,0 +1,6 @@
+{
+    "package": "trbawarepipeline.jobimpl", 
+    "jobmodule": "evaluation.ModelEvaluate", 
+    "input": ["/home/peerapat/wongnai-sentiment/resources/trb_aware/models/1","/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/cleaned/train_index.json","/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/cleaned/test_index.json"], 
+    "output": "/home/peerapat/wongnai-sentiment/resources/trb_aware/reports/modelreport.json"
+}

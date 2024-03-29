@@ -1,0 +1,6 @@
+{
+    "jobmodule": "datatoindex.DataToIndex", 
+    "input": "/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/predict/cleaned.json", 
+    "output": "/home/peerapat/wongnai-sentiment/resources/trb_aware/datasets/predict/index.json",
+    "tag": "Predict"
+}
